@@ -1,0 +1,26 @@
+body{
+    background-image: url(andreas-dress-dj2evWGM15U-unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5rem;
+    margin-top: 10rem;
+}
+
+.countdown-container {
+    display: inline-flex;
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+.countdown-container > div {
+    margin: 4rem 4rem 0 4rem;
+}
+
+.countdown-container div p {
+    margin: 0;
+}
